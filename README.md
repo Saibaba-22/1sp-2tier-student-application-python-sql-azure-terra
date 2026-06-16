@@ -209,14 +209,6 @@ Deploys Azure resources automatically.
 
 ---
 
-## 📸 Screenshots
-
-| Infrastructure | Deployment     |
-| -------------- | -------------- |
-| Add Screenshot | Add Screenshot |
-| Add Screenshot | Add Screenshot |
-
----
 
 <div align="center">
 
